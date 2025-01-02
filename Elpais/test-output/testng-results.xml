@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-01-02T11:51:30 IST" name="Suite" finished-at="2025-01-02T11:54:21 IST" duration-ms="171355">
+    <groups>
+    </groups>
+    <test started-at="2025-01-02T11:51:30 IST" name="Test" finished-at="2025-01-02T11:54:21 IST" duration-ms="171355">
+      <class name="TestCases.TC003_TranslatingHeaders">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TC003_TranslatingHeaders@d554c5f]" started-at="2025-01-02T11:53:56 IST" name="setUp" finished-at="2025-01-02T11:54:07 IST" duration-ms="11191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verifyTranslateHeader()[pri:0, instance:TestCases.TC003_TranslatingHeaders@d554c5f]" started-at="2025-01-02T11:54:07 IST" name="verifyTranslateHeader" finished-at="2025-01-02T11:54:20 IST" duration-ms="12706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTranslateHeader -->
+        <test-method is-config="true" signature="gear()[pri:0, instance:TestCases.TC003_TranslatingHeaders@d554c5f]" started-at="2025-01-02T11:54:20 IST" name="gear" finished-at="2025-01-02T11:54:21 IST" duration-ms="1339" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gear -->
+      </class> <!-- TestCases.TC003_TranslatingHeaders -->
+      <class name="TestCases.TC001_EnsureLanguage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TC001_EnsureLanguage@431cd9b2]" started-at="2025-01-02T11:51:31 IST" name="setUp" finished-at="2025-01-02T11:52:01 IST" duration-ms="30198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="Decect_Lang_spanish()[pri:0, instance:TestCases.TC001_EnsureLanguage@431cd9b2]" started-at="2025-01-02T11:52:01 IST" name="Decect_Lang_spanish" finished-at="2025-01-02T11:52:07 IST" duration-ms="5816" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Decect_Lang_spanish -->
+        <test-method is-config="true" signature="gear()[pri:0, instance:TestCases.TC001_EnsureLanguage@431cd9b2]" started-at="2025-01-02T11:52:07 IST" name="gear" finished-at="2025-01-02T11:52:08 IST" duration-ms="1566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gear -->
+      </class> <!-- TestCases.TC001_EnsureLanguage -->
+      <class name="TestCases.TC002_OpinionSection">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestCases.TC002_OpinionSection@68c9d179]" started-at="2025-01-02T11:52:08 IST" name="setUp" finished-at="2025-01-02T11:52:26 IST" duration-ms="17876" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="verify_OpinionSection()[pri:0, instance:TestCases.TC002_OpinionSection@68c9d179]" started-at="2025-01-02T11:52:26 IST" name="verify_OpinionSection" finished-at="2025-01-02T11:53:54 IST" duration-ms="88328" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_OpinionSection -->
+        <test-method is-config="true" signature="gear()[pri:0, instance:TestCases.TC002_OpinionSection@68c9d179]" started-at="2025-01-02T11:53:54 IST" name="gear" finished-at="2025-01-02T11:53:56 IST" duration-ms="1488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gear -->
+      </class> <!-- TestCases.TC002_OpinionSection -->
+      <class name="TestCases.TC004_Repeatingwords">
+        <test-method signature="verifyRepeatationwords()[pri:0, instance:TestCases.TC004_Repeatingwords@2dfaea86]" started-at="2025-01-02T11:54:21 IST" name="verifyRepeatationwords" finished-at="2025-01-02T11:54:21 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyRepeatationwords -->
+      </class> <!-- TestCases.TC004_Repeatingwords -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
