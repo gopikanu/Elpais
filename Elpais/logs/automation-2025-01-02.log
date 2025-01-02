@@ -1,0 +1,53 @@
+01:21:42.813 [main] INFO  TestCases.TC003_TranslatingHeaders - TC003 TranslatingHeaders started
+01:21:42.853 [main] INFO  TestCases.TC003_TranslatingHeaders -  Translating the Headers 
+01:21:57.654 [main] INFO  TestCases.TC003_TranslatingHeaders - ********TC003 is done*********
+01:25:59.406 [main] INFO  TestCases.TC003_TranslatingHeaders - TC003 TranslatingHeaders started
+01:25:59.437 [main] INFO  TestCases.TC003_TranslatingHeaders -  Translating the Headers 
+01:26:14.895 [main] INFO  TestCases.TC003_TranslatingHeaders - ********TC003 is done*********
+01:37:19.298 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:38:05.879 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:39:24.272 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+01:39:24.737 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+01:47:26.513 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:48:27.790 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+01:48:28.268 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+01:49:15.595 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:50:02.137 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+01:50:02.880 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+01:50:52.908 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:52:07.382 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+01:52:07.809 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+01:56:15.021 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+01:57:13.254 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+01:57:13.886 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+02:00:23.321 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+02:01:35.987 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+02:01:36.519 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+02:04:00.761 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+02:04:41.046 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+02:04:41.544 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+10:27:34.764 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+10:29:38.996 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+10:29:39.507 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+10:32:24.932 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+10:33:47.595 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+10:33:48.107 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+10:38:46.308 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+10:39:44.498 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+10:39:45.004 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+11:21:43.859 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+11:23:09.807 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+11:25:21.346 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+11:25:21.873 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+11:33:04.614 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+11:33:14.007 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+11:33:17.008 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+11:40:30.047 [main] INFO  TestCases.TC003_TranslatingHeaders - TC003 TranslatingHeaders started
+11:40:30.204 [main] INFO  TestCases.TC003_TranslatingHeaders -  Translating the Headers 
+11:40:38.948 [main] INFO  TestCases.TC003_TranslatingHeaders - ********TC003 is done*********
+11:45:35.996 [main] INFO  TestCases.TC001_EnsureLanguage - TC001_EnsureLanguage started
+11:45:36.616 [main] INFO  TestCases.TC001_EnsureLanguage - Verified the text website is in Spanish
+11:45:36.617 [main] INFO  TestCases.TC001_EnsureLanguage - ********TC001 is done*********
+11:46:06.768 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+11:46:19.925 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+11:46:25.300 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********

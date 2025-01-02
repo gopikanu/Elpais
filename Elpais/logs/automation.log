@@ -1,0 +1,12 @@
+11:47:58.367 [main] INFO  TestCases.TC003_TranslatingHeaders - TC003 TranslatingHeaders started
+11:47:58.413 [main] INFO  TestCases.TC003_TranslatingHeaders -  Translating the Headers 
+11:48:08.200 [main] INFO  TestCases.TC003_TranslatingHeaders - ********TC003 is done*********
+11:52:01.364 [main] INFO  TestCases.TC001_EnsureLanguage - TC001_EnsureLanguage started
+11:52:07.164 [main] INFO  TestCases.TC001_EnsureLanguage - Verified the text website is in Spanish
+11:52:07.165 [main] INFO  TestCases.TC001_EnsureLanguage - ********TC001 is done*********
+11:52:26.637 [main] INFO  TestCases.TC002_OpinionSection - TC002_OpinionSection started
+11:52:38.876 [main] INFO  TestCases.TC002_OpinionSection - Print the title and the contenet of the article
+11:52:45.071 [main] INFO  TestCases.TC002_OpinionSection - ********TC002 is done*********
+11:54:07.657 [main] INFO  TestCases.TC003_TranslatingHeaders - TC003 TranslatingHeaders started
+11:54:07.662 [main] INFO  TestCases.TC003_TranslatingHeaders -  Translating the Headers 
+11:54:20.356 [main] INFO  TestCases.TC003_TranslatingHeaders - ********TC003 is done*********
